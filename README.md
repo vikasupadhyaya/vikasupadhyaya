@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vikas+Upadhyaya....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <div align="center">
   <img src="assets/typing-headline.svg" alt="Typing headline — Vikas Upadhyaya" />
 </div>
@@ -27,7 +33,23 @@ Committed to delivering robust, production-ready solutions while exploring emerg
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-upadhyaya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vikasupadhyaya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vikasupadhyaya_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasupadhayaofficial@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikas-upadhyaya">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@vikasupadhyaya">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/@vikasupadhyaya_">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="mailto:vikasupadhyayaofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Tech Stack:
