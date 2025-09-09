@@ -19,11 +19,31 @@ Focused on DevOps, MLOps, and cloud-native solutions, leveraging Kubernetes, Ter
 
 ## 🎮 Fun & Interactive Section
 Check out some interactive games and animations I built:
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/tetris.svg" alt="Tetris animation" />
+</div>
 
-- 🐍 [Play Snake Game](https://vikas-upadhyaya.github.io/vikas-portfolio-games/)
-- 🧬 [Conway’s Game of Life Simulation](https://vikas-upadhyaya.github.io/vikas-portfolio-games/)
-- ✨ [Interactive Particle Background](https://vikas-upadhyaya.github.io/vikas-portfolio-games/)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pac-Man animation" />
+</div>
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/space-invaders.svg" alt="Space Invaders animation" />
+</div>
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/tech-particles.svg" alt="Tech particles animation" />
+</div>
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
