@@ -1,15 +1,9 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Vikas+Upadhyaya....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<h1 align="left">💫  Hi,  I’m Vikas Upadhyaya 👋</h1>
 
-<div align="center">
-  <img src="assets/typing-headline.svg" alt="Typing headline — Vikas Upadhyaya" />
+<div align="centre">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Sr.+DevOps+Engineer;MLOps+Engineer;CNCF+Speaker;GenAI+Enthusiast;AWS+Certified;GCP+Certified;Azure+Certified;Linux+Certified" alt="Typing SVG" /></a> 
 </div>
-**🚀 Sr. DevOps & MLOps Engineer ♾️ | 🎤 CNCF Speaker | ☁️ AWS & GCP Certified | 🐧 Linux Certified | ☸ Kubernetes & OpenShift | 🔄 GitOps | 🤖 AIOps**
 
-# 💫 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="70" alt="animated hello">, I'm Vikas Upadhyaya
 
 # 💫 About Me
 
