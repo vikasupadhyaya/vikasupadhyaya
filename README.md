@@ -5,8 +5,26 @@
 
 # 💫 Hi 👋, I'm Vikas Upadhyaya
 
-# 💫 About Me:
-Focused on DevOps, MLOps, and cloud-native solutions, leveraging Kubernetes, Terraform, AWS, GCP, Azure, and GitOps practices to build secure, scalable, and automated systems. Passionate about GenAI and AI-driven solutions, including Vertex AI, Kubeflow, MLflow, LangChain, and RAG architectures, with expertise in infrastructure-as-code, CI/CD pipelines, and system monitoring. Committed to delivering robust, production-ready solutions while exploring emerging technologies in cloud, DevOps, and AI.
+# 💫 About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+Focused on <strong>DevOps, MLOps</strong>, and cloud-native solutions, leveraging <strong>Kubernetes, Terraform, AWS, GCP, Azure</strong>, and <strong>GitOps</strong> practices to build secure, scalable, and automated systems.  
+Passionate about <strong>GenAI</strong> and AI-driven solutions, including <strong>Vertex AI, Kubeflow, MLflow, LangChain</strong>, and <strong>RAG architectures</strong>.  
+Expertise in <strong>Infrastructure-as-Code</strong>, <strong>CI/CD pipelines</strong>, and <strong>system monitoring</strong>.  
+Committed to delivering robust, production-ready solutions while exploring emerging technologies in cloud, DevOps, and AI.
+<br>
+<br>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65"  /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
+<br>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+    </td>
+  </tr>
+</table>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-upadhyaya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vikasupadhyaya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vikasupadhyaya_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasupadhayaofficial@gmail.com) 
