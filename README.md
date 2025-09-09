@@ -1,6 +1,15 @@
 [![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif "Header")](https://vikasupadhyaya.com/)
 
-<h1 align="Center">💫  Hi,  I’m Vikas Upadhyaya 👋</h1>
+<div align="center">
+  <a href="https://vikasupadhyaya.com/">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+         alt="Header" title="Header" 
+         width="100%" height="180" style="object-fit: cover; border-radius: 10px;" />
+  </a>
+</div>
+
+
+<h1 align="Center">💫  Hi There,  I’m Vikas Upadhyaya 👋</h1>
 
 <div align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Sr.+DevOps+Engineer;MLOps+Engineer;CNCF+Speaker;GenAI+Enthusiast;AWS+Certified;GCP+Certified;Azure+Certified;Linux+Certified" alt="Typing SVG" /></a> 
