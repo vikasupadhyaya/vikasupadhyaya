@@ -1,6 +1,6 @@
-<h1 align="left">💫  Hi,  I’m Vikas Upadhyaya 👋</h1>
+<h1 align="Center">💫  Hi,  I’m Vikas Upadhyaya 👋</h1>
 
-<div align="centre">
+<div align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Sr.+DevOps+Engineer;MLOps+Engineer;CNCF+Speaker;GenAI+Enthusiast;AWS+Certified;GCP+Certified;Azure+Certified;Linux+Certified" alt="Typing SVG" /></a> 
 </div>
 
