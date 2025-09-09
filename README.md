@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://vikasupadhyaya.com/">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
          alt="Header" title="Header" 
          width="100%" height="180" style="object-fit: cover; border-radius: 10px;" />
   </a>
-</div>
+</div> -->
 
 
 <h1 align="Center">💫  Hi There,  I’m Vikas Upadhyaya 👋</h1>
