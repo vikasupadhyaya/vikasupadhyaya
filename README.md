@@ -3,7 +3,7 @@
 </div>
 **🚀 Sr. DevOps & MLOps Engineer ♾️ | 🎤 CNCF Speaker | ☁️ AWS & GCP Certified | 🐧 Linux Certified | ☸ Kubernetes & OpenShift | 🔄 GitOps | 🤖 AIOps**
 
-# 💫 Hi 👋, I'm Vikas Upadhyaya
+# 💫 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="70" alt="animated hello">, I'm Vikas Upadhyaya
 
 # 💫 About Me
 
