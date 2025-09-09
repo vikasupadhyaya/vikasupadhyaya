@@ -1,9 +1,9 @@
 <div align="center">
   <img src="assets/typing-headline.svg" alt="Typing headline — Vikas Upadhyaya" />
 </div>
+**🚀 Sr. DevOps & MLOps Engineer ♾️ | 🎤 CNCF Speaker | ☁️ AWS & GCP Certified | 🐧 Linux Certified | ☸ Kubernetes & OpenShift | 🔄 GitOps | 🤖 AIOps**
 
 # 💫 Hi 👋, I'm Vikas Upadhyaya
-**🚀 Sr. DevOps & MLOps Engineer ♾️ | 🎤 CNCF Speaker | ☁️ AWS & GCP Certified | 🐧 Linux Certified | ☸ Kubernetes & OpenShift | 🔄 GitOps | 🤖 AIOps**
 
 # 💫 About Me:
 Focused on DevOps, MLOps, and cloud-native solutions, leveraging Kubernetes, Terraform, AWS, GCP, Azure, and GitOps practices to build secure, scalable, and automated systems. Passionate about GenAI and AI-driven solutions, including Vertex AI, Kubeflow, MLflow, LangChain, and RAG architectures, with expertise in infrastructure-as-code, CI/CD pipelines, and system monitoring. Committed to delivering robust, production-ready solutions while exploring emerging technologies in cloud, DevOps, and AI.
