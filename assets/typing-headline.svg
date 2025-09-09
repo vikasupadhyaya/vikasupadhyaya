@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="120" viewBox="0 0 900 120" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .base { font: 700 20px/1.1 "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; fill: #0f172a; }
+    .highlight { font: 700 24px/1.1 "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; fill: #0b69ff; }
+    .caret { fill: #0f172a; opacity: 1; }
+    .fade { opacity: 0; }
+  </style>
+
+  <!-- background (transparent so it blends with GitHub's theme) -->
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- static prefix -->
+  <text x="50" y="52" class="base">Hi, I’m Vikas Upadhyaya —</text>
+
+  <!-- Phrase 1: Sr. DevOps Engineer -->
+  <g transform="translate(320,50)">
+    <defs>
+      <mask id="m1">
+        <rect x="0" y="-28" width="0" height="36" fill="#fff">
+          <!-- type-in width -->
+          <animate attributeName="width" from="0" to="230" begin="0s" dur="2.2s" fill="freeze" />
+          <!-- hold -->
+          <animate attributeName="width" begin="4s" dur="1.2s" from="230" to="230" fill="freeze"/>
+          <!-- erase -->
+          <animate attributeName="width" begin="5.4s" dur="1.0s" from="230" to="0" fill="freeze"/>
+        </rect>
+      </mask>
+    </defs>
+
+    <text x="0" y="0" class="highlight" mask="url(#m1)">Sr. DevOps Engineer</text>
+    <!-- caret -->
+    <rect class="caret" x="0" y="-22" width="3" height="28">
+      <animate attributeName="x" values="0;228" begin="0s" dur="3.2s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" begin="0s" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Phrase 2: MLOps Engineer -->
+  <g transform="translate(320,50)">
+    <defs>
+      <mask id="m2">
+        <rect x="0" y="-28" width="0" height="36" fill="#fff">
+          <!-- start after phrase1 erased -->
+          <animate attributeName="width" from="0" to="165" begin="6.6s" dur="1.8s" fill="freeze" />
+          <animate attributeName="width" begin="8.4s" dur="1.2s" from="165" to="165" fill="freeze"/>
+          <animate attributeName="width" begin="9.6s" dur="0.9s" from="165" to="0" fill="freeze"/>
+        </rect>
+      </mask>
+    </defs>
+
+    <text x="0" y="0" class="highlight" mask="url(#m2)">MLOps Engineer</text>
+    <rect class="caret" x="0" y="-22" width="3" height="28" >
+      <animate attributeName="x" values="0;162" begin="6.6s" dur="2.6s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" begin="6.6s" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Phrase 3: CNCF Speaker -->
+  <g transform="translate(320,50)">
+    <defs>
+      <mask id="m3">
+        <rect x="0" y="-28" width="0" height="36" fill="#fff">
+          <animate attributeName="width" from="0" to="125" begin="11s" dur="1.6s" fill="freeze" />
+          <animate attributeName="width" begin="12.6s" dur="1.2s" from="125" to="125" fill="freeze"/>
+          <animate attributeName="width" begin="13.8s" dur="0.9s" from="125" to="0" fill="freeze"/>
+        </rect>
+      </mask>
+    </defs>
+
+    <text x="0" y="0" class="highlight" mask="url(#m3)">CNCF Speaker</text>
+    <rect class="caret" x="0" y="-22" width="3" height="28">
+      <animate attributeName="x" values="0;123" begin="11s" dur="2.4s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" begin="11s" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Phrase 4: GenAI Enthusiast -->
+  <g transform="translate(320,50)">
+    <defs>
+      <mask id="m4">
+        <rect x="0" y="-28" width="0" height="36" fill="#fff">
+          <animate attributeName="width" from="0" to="170" begin="16.2s" dur="1.9s" fill="freeze" />
+          <animate attributeName="width" begin="18.1s" dur="1.4s" from="170" to="170" fill="freeze"/>
+          <animate attributeName="width" begin="19.5s" dur="1.0s" from="170" to="0" fill="freeze"/>
+        </rect>
+      </mask>
+    </defs>
+
+    <text x="0" y="0" class="highlight" mask="url(#m4)">GenAI Enthusiast</text>
+    <rect class="caret" x="0" y="-22" width="3" height="28">
+      <animate attributeName="x" values="0;168" begin="16.2s" dur="2.9s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" begin="16.2s" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- loop control: restart entire animation after cycle -->
+  <rect x="0" y="0" width="0" height="0">
+    <animate id="loop" attributeName="width" from="0" to="0" begin="20.8s;loop.end" dur="0.01s" fill="freeze"/>
+  </rect>
+</svg>
