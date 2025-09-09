@@ -61,7 +61,7 @@ Committed to delivering robust, production-ready solutions while exploring emerg
 ![](https://github-profile-trophy.vercel.app/?username=vikasupadhyaya&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 💰 Support / Connect
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> Support / Connect
 
 <div align="left">
 
