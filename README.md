@@ -1,3 +1,19 @@
+# 💫 Hi 👋, I'm Vikas Upadhyaya
+**Senior DevOps & MLOps Engineer || Cloud & GenAI Enthusiast || CI/CD Specialist**
+
+- 🔭 **I’m currently working on:** GenAI solutions, MLOps pipelines, and cloud-native infrastructure automation  
+- 🌱 **I’m currently learning:** Emerging AI technologies, advanced Kubernetes patterns, and GenAI frameworks  
+- 👯 **I’m looking to collaborate on:** DevOps/MLOps projects, Cloud automation, and GenAI implementations  
+- 🤔 **I’m looking for help with:** Exploring new AI/GenAI tools and scalable infrastructure patterns  
+- 💬 **Ask me about:** Cloud, DevOps, MLOps, CI/CD pipelines, and GenAI solutions  
+- 📫 **How to reach me:** **Using TopMate**  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** Passionate about building automated, scalable systems and exploring cutting-edge AI technologies  
+
+## 🔗 Connect with me on Topmate
+[![Topmate](https://img.shields.io/badge/Connect%20on-Topmate-FF5C5C?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/vikas_upadhyaya)
+
+
 # 💫 About Me:
 Focused on DevOps, MLOps, and cloud-native solutions, leveraging Kubernetes, Terraform, AWS, GCP, Azure, and GitOps practices to build secure, scalable, and automated systems. Passionate about GenAI and AI-driven solutions, including Vertex AI, Kubeflow, MLflow, LangChain, and RAG architectures, with expertise in infrastructure-as-code, CI/CD pipelines, and system monitoring. Committed to delivering robust, production-ready solutions while exploring emerging technologies in cloud, DevOps, and AI.
 
